@@ -1,4 +1,4 @@
-# 🔐 SecurePass Gen
+# 🔐 Password Generator
 
 A modern and responsive **password generator web app** built using HTML, CSS, and JavaScript.
 It allows users to generate strong, secure passwords instantly and evaluate their strength in real time.
