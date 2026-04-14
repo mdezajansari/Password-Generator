@@ -13,7 +13,7 @@ It allows users to generate strong, secure passwords instantly and evaluate thei
 
 ## 📸 Screenshot
 
-![Counter App Screenshot](./img/image.png.png)
+![Counter App Screenshot](./img/image.png)
 
 ---
 
